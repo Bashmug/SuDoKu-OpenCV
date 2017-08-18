@@ -2,7 +2,7 @@
 Sudoku Solver using MNIST 
 
 ## Dependencies
-  1. Use pip **install -r requirements.txt** to install dependencies using pip
+  1. Use **pip install -r requirements.txt** to install dependencies using pip
   2. **apt-get install cv2**. Do not use pip to install OpenCV.
 
 
