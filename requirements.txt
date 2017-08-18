@@ -1,0 +1,5 @@
+numpy
+matplotlib
+sklearn (sci-kit learn)
+keras
+OpenCV (cv2)
